@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/SiddharthShyniben/4c-twitter-bot#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "twit": "^2.2.11"
   }
 }
